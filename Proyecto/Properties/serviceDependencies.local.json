@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "DefaultConnection"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "rolContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "RolesContext"
+    },
+    "mssql4": {
+      "type": "mssql.local",
+      "connectionId": "RutinaContext"
+    },
+    "mssql5": {
+      "type": "mssql.local",
+      "connectionId": "HorarioContext"
+    },
+    "mssql6": {
+      "type": "mssql.local",
+      "connectionId": "MenuContext"
+    },
+    "mssql7": {
+      "type": "mssql.local",
+      "connectionId": "EjercicioContext"
+    }
+  }
+}
